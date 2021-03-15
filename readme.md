@@ -2,5 +2,7 @@
 Hey these are my notes for operating systems programming
 
 ```bash
-print("blah")
+print_stuff() {
+    print("blah")
+}
 ```
