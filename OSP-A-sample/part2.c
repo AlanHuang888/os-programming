@@ -16,7 +16,7 @@ int main(int ac, char **av)
 		putchar('\n');
 		rev = reverse_bits(val);
 		print_bits(rev);
-		putchar('\n');
+		printf("\n------\n");
 	}
 
 	return 0;
